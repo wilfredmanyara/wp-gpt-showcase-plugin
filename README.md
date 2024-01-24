@@ -50,5 +50,5 @@ This plugin is licensed under the [GPL-2.0](https://www.gnu.org/licenses/gpl-2.0
 For any inquiries, you can contact the plugin author:
 
 - Author: Wilfred Manyara
-- Email: your.email@example.com
+- Email: manyarawilly46@gmail.com
 
